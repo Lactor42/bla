@@ -9,6 +9,9 @@ package com.mycompany.blamaven;
  *
  * @author caro
  */
-public class BlaClass {
-    
+public class MyUnit {
+
+    public String concatenate(String one, String two){
+        return one + two;
+    }
 }
