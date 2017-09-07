@@ -1,5 +1,6 @@
-package com.mycompany.blamaven;
 
+
+import com.mycompany.blamaven.MyUnit;
 import org.junit.Test;
 import static org.junit.Assert.*;
 
